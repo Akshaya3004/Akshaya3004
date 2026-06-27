@@ -1,16 +1,60 @@
-## Hi there 👋
+# Hi 👋 I'm Akshaya Ungaram
 
-<!--
-**Akshaya3004/Akshaya3004** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+## Network Engineer | CCNA | AWS Learner
 
-Here are some ideas to get you started:
+I am a Network Engineer with hands-on experience in enterprise networking, troubleshooting, and cloud fundamentals. I enjoy building practical networking labs using GNS3 and continuously improving my networking and cloud skills.
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+---
+
+## 🛠 Skills
+
+### Networking
+- Routing & Switching
+- VLAN
+- STP
+- OSPF
+- BGP
+- MPLS
+- GRE Tunnel
+- NAT
+- ACL
+- HSRP
+- VXLAN
+- SD-WAN
+
+### Cloud
+- AWS EC2
+- VPC
+- IAM
+- Security Groups
+- Route Tables
+- ELB
+- Auto Scaling
+
+### Tools
+- GNS3
+- Wireshark
+- Git
+- GitHub
+- ServiceNow
+
+---
+
+## 📂 Featured Projects
+
+- 🔹 Network-Labs-GNS3
+
+---
+
+## 📚 Currently Learning
+
+- MPLS
+- VXLAN EVPN
+- Cisco SD-WAN
+- AWS Solutions Architect
+
+---
+
+## 📫 Connect
+
+- GitHub: https://github.com/Akshaya3004
